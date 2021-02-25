@@ -1,5 +1,7 @@
 # PlantillaBootstrap4
-Esto seria una plantilla web en la cual iré actualizando
+Esto seria una plantilla web en la cual iré actualizando poco a poco.
+
+
 License
 
 Copyright (c) 2021 JairoSanchez
