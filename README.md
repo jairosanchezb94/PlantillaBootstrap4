@@ -1,5 +1,7 @@
 # PlantillaBootstrap4
-Esto seria una plantilla web en la cual iré actualizando poco a poco.
+Esto seria una plantilla web.
+
+![Captura](https://user-images.githubusercontent.com/32551746/124294450-fe4c8f00-db57-11eb-816c-eda1a84573c4.JPG)
 
 
 License
